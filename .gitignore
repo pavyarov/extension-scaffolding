@@ -1,0 +1,11 @@
+.idea
+.cache
+*.log
+node_modules
+build
+localization/messages
+localization/translated/en.json
+.env
+.DS_Store
+
+*.iml
